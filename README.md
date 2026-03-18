@@ -38,7 +38,7 @@ This repository will be organized step by step as I learn:<br>
 - Authentication systems
 - Security practices
 
-## Detalhed content
+## 📰 Detailed content
 
 `📚 Data structure`
 - Linked lists
