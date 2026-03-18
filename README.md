@@ -79,16 +79,6 @@ Backtracking
 ```
 Each folder contains examples, exercises, and mini-projects.
 
-## 📈 Progress Tracking
-```shell
-[ ] Basics completed
-[ ] Intermediate completed
-[ ] Advanced completed
-[ ] First full project
-[ ] API development
-[ ] Authentication system
-```
-
 ## 🎯 Learning Approach
 - Learn → Practice → Build → Repeat
 - Write clean and readable code
@@ -107,6 +97,19 @@ This is a personal learning repository. Expect:
 - Frequent updates
 - Experimental code
 - Continuous improvements
+
+## 📈 Progress Tracking
+```shell
+[ ] Basics completed
+[ ] Intermediate completed
+[ ] Advanced completed
+[ ] First full project
+[ ] API development
+[ ] Authentication system
+```
+
+## 🗺️ Roadmap
+[**Full Php roadmap**](https://roadmap.sh/php)
 
 ## 🤝 Contributions
 This is a personal project, but suggestions and feedback are always welcome!
