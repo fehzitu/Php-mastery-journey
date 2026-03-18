@@ -39,7 +39,6 @@ This repository will be organized step by step as I learn:<br>
 - Security practices
 
 ## 📰 Detailed content
-
 `📚 Data structure`
 - Linked lists
 - Stacks
