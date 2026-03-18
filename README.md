@@ -98,6 +98,9 @@ This is a personal learning repository. Expect:
 - Experimental code
 - Continuous improvements
 
+## 🗺️ Roadmap
+[**Full Php roadmap**](https://roadmap.sh/php)
+
 ## 📈 Progress Tracking
 ```shell
 [ ] Basics completed
@@ -107,9 +110,6 @@ This is a personal learning repository. Expect:
 [ ] API development
 [ ] Authentication system
 ```
-
-## 🗺️ Roadmap
-[**Full Php roadmap**](https://roadmap.sh/php)
 
 ## 🤝 Contributions
 This is a personal project, but suggestions and feedback are always welcome!
