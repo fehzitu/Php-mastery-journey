@@ -21,3 +21,6 @@ Anything. PHP is mainly focused on server-side scripting, so it can do anything 
 - **Server-side scripting**. This is the most widely used and main target field for PHP. Three things are needed to make this work: **the PHP parser** (**CGI or server module**), a **web server**, and a **web browser**. All these can **run on a local machine** in order to just experiment with PHP programming.
 
 - **Command line scripting**. A PHP script **can be run without any server or browser**, **only the PHP parser is needed to use it this way**. This type of usage is ideal for scripts regularly executed using cron (**on Unix or macOS**) or Task Scheduler (**on Windows**). These scripts can also be used for simple text processing tasks.
+
+## ❗ Some content about php
+[Php article](https://www.phptutorial.net/php-tutorial/what-is-php/)
