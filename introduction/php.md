@@ -12,6 +12,8 @@ unix:
 - apt install php
 ```
 
+If we **need some help to install** here a official guide: **[Php install guide](https://www.php.net/manual/en/install.php)**
+
 ## ❓ What can PHP do?
 Anything. PHP is mainly focused on server-side scripting, so it can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more.
 
