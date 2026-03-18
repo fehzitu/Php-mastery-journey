@@ -24,3 +24,4 @@ Anything. PHP is mainly focused on server-side scripting, so it can do anything 
 
 ## ❗ Some content about php
 [Php article](https://www.phptutorial.net/php-tutorial/what-is-php/)
+[About php versions](https://www.php.net/manual/en/history.php.php)
