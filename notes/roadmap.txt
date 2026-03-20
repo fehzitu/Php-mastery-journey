@@ -1,0 +1,59 @@
+1- Fundamentos da Computação (Base obrigatória)
+[]Conceitos essenciais:
+-Variáveis
+-Tipos de dados
+-Condições (if, else)
+-Loops (for, while)
+-Funções
+-Escopo
+-Arrays / listas
+-Objetos / structs
+-Manipulação de strings
+-Entrada e saída de dados
+
+[]Crie programas simples:
+-calculadora
+-jogo de adivinhação
+-lista de tarefas no terminal
+-conversor de moedas
+-contador de palavras
+
+2- Estruturas de Dados (MUITO importante)
+[]Aprenda:
+-Arrays
+-Listas ligadas
+-Pilhas (stack)
+-Filas (queue)
+-Hash tables / maps
+-Árvores
+-Grafos
+
+[]O que entender
+-quando usar cada estrutura
+-complexidade de acesso
+-vantagens e desvantagens
+
+3- Algoritmos
+[]Principais algoritmos:
+*Ordenação
+-Bubble sort
+-Merge sort
+-Quick sort
+*Busca
+-Busca linear
+-Busca binária
+-Técnicas importantes
+*Recursão
+-Two pointers
+-Sliding window
+-Backtracking
+*Programação dinâmica (nível mais avançado)
+
+4- Escolher uma Linguagem
+[]O que dominar na linguagem
+-sintaxe
+-manipulação de dados
+-estruturas de controle
+-bibliotecas básicas
+-leitura e escrita de arquivos
+-tratamento de erros
