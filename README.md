@@ -72,11 +72,13 @@ Backtracking
 ## 📂 Project Structure
 ```shell
 📦Main folder
+┣ 📂introduction
 ┣ 📂basics
 ┣ 📂intermediate
 ┣ 📂advanced
 ┣ 📂exercises
-┗ 📂projects
+┣ 📂projects
+┗ 📂notes
 ```
 Each folder contains examples, exercises, and mini-projects.
 
