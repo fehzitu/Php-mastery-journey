@@ -1,12 +1,12 @@
 <?php
-// print or echo is a to print on console
+// Print or echo is a to print on console
 print "See php super tag like an php code block <?php { code here } ?>";
 echo "and all php comments are simple like C and C++ or unix";
 
-# single line comment
-// single line comment too
+# Single line comment
+// Single line comment too
 /*
-    block comment, multi lines comment
+    Block comment, multi lines comment
 */
 
 /*

@@ -6,10 +6,10 @@
     <title>Info</title>
 </head>
 <body>
-<!-- we can use php inside an html using a php tag -->
+<!-- We can use php inside an html using a php tag -->
     <h1>
         <?php
-        // using "phpinfo" function we can show the server info on a website
+        // Using "phpinfo" function we can show the server info on a website
             phpinfo();
         ?>
     </h1>
