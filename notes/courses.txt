@@ -1,7 +1,13 @@
 Especializa TI [php 7 básico]: https://www.youtube.com/playlist?list=PLVSNL1PHDWvTwSPNOGj_GrXg41W6dgWam
-Curso em video [php para iniciantes]: https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k
+
+Curso em video [php para iniciantes]: https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k -> [https://www.youtube.com/watch?v=JFEelabfc1o&list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_&index=22]
+
 Node Studio [Cusro de php para iniciantes ]: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq
+
 Curso em video [php poo]: https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x
+
 Curso em video [php moderno]: https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_
+
 Especializa Ti [segurança com php]: https://www.youtube.com/playlist?list=PLVSNL1PHDWvT1zXtgrpOPeC15XeioXKuU
+
 João Ribeiro [php 8 curso completo]: https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ

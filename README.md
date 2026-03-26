@@ -119,3 +119,6 @@ This is a personal project, but suggestions and feedback are always welcome!
 
 ## 📄 License
 This project is open-source and available under the MIT License.
+
+## 📊 Status:
+``Discontinued day 26 march 2026``

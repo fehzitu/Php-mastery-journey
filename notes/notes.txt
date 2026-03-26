@@ -1,16 +1,16 @@
 front
-minimas:
+minimal:
 - HTML, CSS, JavaScript -> (frameworks: React, React Native(mobile))
-recomendadas:
+recomended:
 - TypeScript
 diferencial:
 - Python (Django)
 - Redux.js
 
 back
-minimas:
+minimal:
 - Node.js, APIs RESTful, SQL
-recomendadas:
+recomended:
 - APIs
 - PostgreSQL, MongoDB
 diferencial:
@@ -19,8 +19,8 @@ diferencial:
 - Next.js
 - Java
 
-ambas:
-minimas:
+full:
+minimal:
 - Lógica de programação
 - Git/Gihub, Gitlab
 - Deploy (subir o projeto) -> Vercel, Render, Netlify

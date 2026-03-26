@@ -1,59 +1,62 @@
-1- Fundamentos da Computação (Base obrigatória)
-[]Conceitos essenciais:
--Variáveis
--Tipos de dados
--Condições (if, else)
--Loops (for, while)
--Funções
--Escopo
--Arrays / listas
--Objetos / structs
--Manipulação de strings
--Entrada e saída de dados
+1- Fundamentals of Computing (Required Base)
 
-[]Crie programas simples:
--calculadora
--jogo de adivinhação
--lista de tarefas no terminal
--conversor de moedas
--contador de palavras
+[ ] Essential Concepts:
+- Variables
+- Data Types
+- Conditions (if, else)
+- Loops (for, while)
+- Functions
+- Scope
+- Arrays / Lists
+- Objects / Structs
+- String Manipulation
+- Data Input and Output
 
-2- Estruturas de Dados (MUITO importante)
-[]Aprenda:
--Arrays
--Listas ligadas
--Pilhas (stack)
--Filas (queue)
--Hash tables / maps
--Árvores
--Grafos
+Create Simple Programs:
+- Calculator
+- Guessing Game
+- Terminal To-Do List
+- Currency Converter
+- Word Counter
 
-[]O que entender
--quando usar cada estrutura
--complexidade de acesso
--vantagens e desvantagens
+2- Data Structures (VERY Important)
 
-3- Algoritmos
-[]Principais algoritmos:
-*Ordenação
--Bubble sort
--Merge sort
--Quick sort
-*Busca
--Busca linear
--Busca binária
--Técnicas importantes
-*Recursão
--Two pointers
--Sliding window
--Backtracking
-*Programação dinâmica (nível mais avançado)
+Learn:
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Hash Tables / Maps
+- Trees
+- Graphs
 
-4- Escolher uma Linguagem
-[]O que dominar na linguagem
--sintaxe
--manipulação de dados
--estruturas de controle
--bibliotecas básicas
--leitura e escrita de arquivos
--tratamento de erros
+[ ] What to Understand
+- When to Use Each Structure
+- Access Complexity
+- Advantages and Disadvantages
+
+3- Algorithms
+[ ] Main Algorithms:
+
+* Sorting
+- Bubble sort
+- Merge sort
+- Quick sort
+* Search
+- Linear search
+- Binary search
+- Important techniques
+* Recursion
+- Two pointers
+- Sliding window
+- Backtracking
+* Dynamic programming (more advanced level)
+
+4- Choosing a Language
+[ ] What to master in the language
+- Syntax
+- Data manipulation
+- Control structures
+- Basic libraries
+- Reading and writing files
+- Error handling
